@@ -4,7 +4,7 @@ const navbar = () => {
     return ( 
         <div className="flex justify-between bg-gray-700 md:p-5 py-5 text-gray-100 font-semibold" id="navmenue">
             <div className="flex">
-                <Image src="/images/icons/logo.png" width={40} height={40} alt="sound-engin" />
+                <Image src="/images/Logo.png" width={40} height={40} alt="sound-engin" />
                 <a href="" className="mt-1 xm:text-xm md:text-sm hover:text-xl hover:text-blue-400">SOUND-ENGINE</a>
                 
             </div>

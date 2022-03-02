@@ -12,7 +12,7 @@ const layouts = () => {
             {/* <!-- Bannr section --> */}
             <div className="bg-[url('/images/3.jpg')] bg-cover h-screen shadow-inner">
                 <div className="py-20">
-                    <span className="flex justify-center m-7"><Image src="/images/icons/logo.png" width={72} height={72} alt="sound-engine" /></span>
+                    <span className="flex justify-center m-7"><Image src="/images/Logo.png" width={72} height={72} alt="sound-engine" /></span>
                     <span className="flex justify-center shadow text-2xl mb-24 font-semibold">SOUND-ENGINE</span>
                     <p className="flex justify-center text-center text-2xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, incidunt.</p>
                 </div>
