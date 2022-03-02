@@ -1,0 +1,12 @@
+#banner {
+    height: 100vh;
+    /* border: 20px solid red; */
+    background-image: url(../public/images/3.jpg);
+    background-size: cover;
+  }
+  
+  #lstimg {
+    border-radius: 1%;
+    height: 60vh;
+  }
+  
