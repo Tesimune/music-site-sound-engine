@@ -18,7 +18,7 @@ const navbar = () => {
                     </li>
                     <li className="flex mx-1">
                         <span className="md:hidden h-6 w-6"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-  <path stroke-linecap="round" strokelinejoin="round" strokewidth="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
+  <path strokelinecap="round" strokelinejoin="round" strokewidth="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z" />
 </svg></span>
                         <a href="#" className="hidden md:block uppercase hover:text-xl hover:text-blue-400">Audio</a>
 
@@ -38,7 +38,7 @@ const navbar = () => {
                     <li className="flex mx-1">
                         <span className="md:hidden h-6 w-6"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path strokelinecap="round" strokelinejoin="round" strokewidth="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-  <path strokelinecap="round" stroke-linejoin="round" strokewidth="2" d="M9 10a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1h-4a1 1 0 01-1-1v-4z" />
+  <path strokelinecap="round" strokelinejoin="round" strokewidth="2" d="M9 10a1 1 0 011-1h4a1 1 0 011 1v4a1 1 0 01-1 1h-4a1 1 0 01-1-1v-4z" />
 </svg></span>
                         <a href="#" className="hidden md:block uppercase hover:text-xl hover:text-blue-400">Instrumentals</a>
                     </li>
