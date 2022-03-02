@@ -1,6 +1,6 @@
 const links = () => {
     return ( 
-        <div>
+        <div id="links">
             <ul className="md:flex justify-center p-6 bg-slate-100">
                 <li className="flex justify-center m-1 p-2">
                     
