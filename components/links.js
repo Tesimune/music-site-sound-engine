@@ -8,12 +8,12 @@ const links = () => {
                 </li>
                 <li className="flex justify-center m-1 p-2">
                     
-                    <a href="#" className="font-semibold uppercase hover:text-xl hover:text-blue-400">Audio</a>
+                    <a href="#" className="font-semibold uppercase hover:text-xl hover:text-blue-400">Songs</a>
 
                 </li>
                 <li className="flex justify-center m-1 p-2">
                     
-                    <a href="#" className="font-semibold uppercase hover:text-xl hover:text-blue-400">Video</a>
+                    <a href="#" className="font-semibold uppercase hover:text-xl hover:text-blue-400">Videos</a>
                 </li>
                 <li className="flex justify-center m-1 p-2">
                     
