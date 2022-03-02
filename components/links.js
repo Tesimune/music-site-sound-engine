@@ -17,7 +17,7 @@ const links = () => {
                 </li>
                 <li className="flex justify-center m-1 p-2">
                     
-                    <a href="#" class="font-semibold uppercase hover:text-xl hover:text-blue-400">Album</a>
+                    <a href="#" className="font-semibold uppercase hover:text-xl hover:text-blue-400">Album</a>
                 </li>
                 <li className="flex justify-center m-1 p-2">
                     
