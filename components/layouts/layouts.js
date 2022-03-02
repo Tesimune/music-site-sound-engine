@@ -45,6 +45,7 @@ const layouts = () => {
                 </div>
             </section>
             {/* <!-- THRID SECTION --> */}
+            
             <section className="bg-pink-500 p-9 shadow-inner-xl">
                 <div className="md:flex">
                     <Image src="/images/1.jpg" alt="" className="rounded shadow-xl" width={500} height={700}alt="soun-engine" />
