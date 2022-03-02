@@ -2,6 +2,8 @@
 
 Music site app built with NextJS
 
+Preview @ https://soundengine.vercel.app/
+
 First, run the development server on terminal:
 
 ```bash
